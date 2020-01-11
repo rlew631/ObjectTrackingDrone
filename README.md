@@ -10,8 +10,8 @@ This project assumes that you already have a XXXX-copter configured using [QGrou
 
 Currently the main_dat.py file is the main program file that contains the mavlink initialization, main logic statements for switching between flight modes and other key componenets of the code. The definitions.py file contains the definitions for OpenCV, the individual mavlink commands etc.
 
-personal notes:
-*put in thanks to: mavlink community pyimagesearch and mjrovai for tutorials on object tracking and rpi io stuff
-mention using python -m pip for installing files through python2.7, 3.8 etc.
+personal notes/reminders:<br/>
+*put in thanks to: mavlink community pyimagesearch and mjrovai for tutorials on object tracking and rpi io stuff<br/>
+mention using python -m pip for installing files through python2.7, 3.8 etc.<br/>
 go into programming flight modes for the pixhawk...*
 
