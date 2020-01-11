@@ -14,4 +14,3 @@ personal notes/reminders:<br/>
 *put in thanks to: mavlink community pyimagesearch and mjrovai for tutorials on object tracking and rpi io stuff<br/>
 mention using python -m pip for installing files through python2.7, 3.8 etc.<br/>
 go into programming flight modes for the pixhawk...*
-
