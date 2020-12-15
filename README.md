@@ -9,6 +9,7 @@ The goal of this project is to use the MavLink protocol and OpenCV to allow obje
 This project assumes that you already have a XXXX-copter configured using [QGroundControl software](http://qgroundcontrol.com/) which is able to fly using the [stabilized flight mode](http://ardupilot.org/copter/docs/flight-modes.html)
 
 `main_dat.py` is the main program file that contains the mavlink initialization, main logic statements for switching between flight modes and other key componenets of the code. `definitions.py` contains the definitions for OpenCV, the individual mavlink commands etc. The control loop looks like the following:
+
 ![The Structure of the program](https://github.com/rlew631/ObjectTrackingDrone/blob/master/ProcessDiagram.jpg?raw=true)
 
 personal notes/reminders:<br/>
