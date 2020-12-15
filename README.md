@@ -13,5 +13,11 @@ This project assumes that you already have a XXXX-copter configured using [QGrou
 ![The Structure of the program](https://github.com/rlew631/ObjectTrackingDrone/blob/master/ProcessDiagram.jpg?raw=true)
 
 personal notes/reminders:<br/>
-*put in thanks to: mavlink community pyimagesearch and mjrovai for tutorials on object tracking and rpi io stuff<br/>
 go into programming flight modes for the pixhawk...*
+
+## Credits
+
+- [Ardupilot](https://ardupilot.org/)
+- [MavLink](https://mavlink.io/en/)
+- [PyImageSearch Blog](https://www.pyimagesearch.com/blog/)
+- [MJRobot](https://mjrobot.org/)
