@@ -13,9 +13,10 @@ This project assumes that you already have a XXXX-copter configured using [QGrou
 
 ![The Structure of the program](https://github.com/rlew631/ObjectTrackingDrone/blob/master/ProcessDiagram.jpg?raw=true)
 
+<!---
 personal notes/reminders:<br/>
 go into programming flight modes for the pixhawk...*
-
+--->
 ## Credits
 
 - [Ardupilot](https://ardupilot.org/)
