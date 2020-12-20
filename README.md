@@ -1,10 +1,11 @@
 # Object Tracking Drone
 
-NOTE: for the time being all of this is for my own personal reference while putting together a properly organized project. feel free to reach out if you have questions abotu the project.
+Feel free to reach out if you have questions about the project. This project involved designing a drone to perform object tracking with:
+- a Pixhawk flight controller
+- a RaspberryPi
+- a custom servo-based camera gimbal
 
-**Drone w/ camera gimbal controlled by Pixhawk and Raspberry Pi running OpenCV**
-
-The goal of this project is to use the MavLink protocol and OpenCV to allow object detection and tracking on a drone controlled by a pixhawk flight controller.
+This project uses the MavLink protocol and OpenCV to allow object detection and tracking on a drone controlled by a pixhawk flight controller.
 
 This project assumes that you already have a XXXX-copter configured using [QGroundControl software](http://qgroundcontrol.com/) which is able to fly using the [stabilized flight mode](http://ardupilot.org/copter/docs/flight-modes.html)
 
